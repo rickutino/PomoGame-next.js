@@ -1,8 +1,8 @@
-import { Profiler } from "inspector";
+import styles from "../styles/components/Profile.module.css";
 
 export function Profile() {
   return (
-    <div>
+    <div className={styles.profileContainer}>
       <img src="https://github.com/rickutino.png" alt="Ricardo Utino"/>
       <div>
         <strong>Ricardo Utino</strong>
