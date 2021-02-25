@@ -5,7 +5,7 @@ export function Profile() {
     <div className={styles.profileContainer}>
       <img src="https://github.com/rickutino.png" alt="Ricardo Utino"/>
       <div>
-        <strong>Ricardo Utino</strong>
+        <strong>内野  リカルド</strong>
         <p>
           <img src="icons/level.svg" alt="level" />
           Level 1
