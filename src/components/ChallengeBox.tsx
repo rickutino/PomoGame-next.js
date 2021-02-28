@@ -50,8 +50,8 @@ export function ChallengeBox() {
       ) : (
         <div className={styles.challengeNotActive}>
           <strong>
-            クエストを<br/>
-            挑戦しましょう。
+            タイムをクリアしたら<br/>
+            クエストを挑戦しましょう。
             </strong>
           <p>
             <img src="icons/level-up.svg" alt="Level Up"/>
