@@ -46,6 +46,9 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
     setActiveChallenge(challenge);
 
+    new Audio('/notification.mp3').play();
+
+    // https://developer.mozilla.org/ja/docs/Web/API/Notification
     if(Notification.permission === 'granted') {
       new Notification('New Challenge', {
         body: `次の報酬は${challenge.amount}xp`
