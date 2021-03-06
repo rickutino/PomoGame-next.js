@@ -1,62 +1,57 @@
 [
   {
     "type": "body",
-    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 10 segundos por mão.",
+    "description": "手のひらが下を向くよう腕をまっすぐ伸ばし、もう一方の手で指を掴んで身体の方に引っ張り片方ずつ10秒キープしましょう。",
     "amount": 80
   },
   {
     "type": "body",
-    "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço.",
+    "description": "腕をクロスして片腕で反対側の腕を抱え込むように片方ずつ10秒キープしましょう。",
     "amount": 60
   },
   {
     "type": "body",
-    "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição por alguns segundos.",
+    "description": "右手を頭の上から左側に回し、ゆっくり引き寄せるように首だけを右真横に傾けます。反対側も同様に行いしょう。",
     "amount": 70
   },
   {
     "type": "body",
-    "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás da região.",
+    "description": "頭の後ろで両手を組み、軽く押しながら顎を胸に付けるように頭を下げしょう",
     "amount": 60
   },
   {
     "type": "body",
-    "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita o movimento com a outra perna na frente.",
+    "description": "立ったままで足をクロスし、かかとが浮かないように上体を前に倒し20秒キープしましょう。",
     "amount": 100
   },
   {
     "type": "body",
-    "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão, repita 3 vezes por 5 segundos.",
+    "description": "床に座った状態で両足を開き足の間に上体を前に倒し20秒キープしましょう。",
     "amount": 80
   },
   {
     "type": "body",
-    "description": "Puxe o joelho de encontro ao peito e segure, troque de perna após 10 segundos.",
+    "description": "片足を抱えて胸に引きつけ、片方ずつ10秒キープしましょう",
     "amount": 50
   },
   {
     "type": "body",
-    "description": "Sentado, cruze uma perna e incline seu tronco à frente, troque de perna após 10 segundos.",
+    "description": "座っている状態で,上体を前に倒し左右両方の足に10秒ずつキープしましょう。",
     "amount": 80
   },
   {
     "type": "eye",
-    "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+    "description": "片手を前に伸ばし、親指を立てて、爪の位置が目と目の間の延長線上にくるようにし。そこで、親指の爪を1秒凝視します。腕を伸ばしきった半分の位置と顔にできるだけ近い位置の目と目の間に、1秒凝視しましょう。",
     "amount": 90
   },
   {
     "type": "eye",
-    "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas os olhos. Repita 3 vezes.",
+    "description": "できるだけ遠くを見る意識し、目だけを動かしながら３ヵ所を見ましょう。",
     "amount": 140
   },
   {
     "type": "eye",
-    "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
+    "description": "目を閉じ、人差し指と親指で眉間をつまみ、小さな円を描くように１５秒間まわしましょう。",
     "amount": 70
-  },
-  {
-    "type": "body",
-    "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
-    "amount": 90
   }
 ]
